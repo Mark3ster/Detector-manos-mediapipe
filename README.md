@@ -25,7 +25,7 @@ python main.py
 
 ---
 
-## ⌨️ Controles
+##  Controles
 
 - Presiona `q` → salir
 - Presiona `c` → limpiar cuadrados
