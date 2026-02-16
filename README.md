@@ -9,7 +9,7 @@ Proyecto en Python que utiliza OpenCV y MediaPipe para:
 
 ---
 
-## 📦 Requisitos
+##  Requisitos
 
 Python 3.8+
 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Ejecutar
+##  Ejecutar
 
 python main.py
 
@@ -32,7 +32,7 @@ python main.py
 
 ---
 
-## 🧠 Tecnologías
+##  Tecnologías
 
 - OpenCV
 - MediaPipe
